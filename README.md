@@ -1,1 +1,2 @@
 # lightserver
+An light server.
